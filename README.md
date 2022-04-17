@@ -1,3 +1,3 @@
-# Sarthak_Prayas_Website
+# M S Acharya memorial Trust
 
-Website for NGO Sarthak Prayas
+Website for M S Acharya memorial Trust
